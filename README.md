@@ -1,4 +1,4 @@
-function CheckQuest() https://raw.githubusercontent.com/cauexxxd/Cafee/refs/heads/main/README.md
+function CheckQuest() https://raw.githubusercontent.com/cauexxxd/Cafee/refs/local World1 = true -- Defina como true ou false conforme necessário/main/README.md
     local Level = game.Players.LocalPlayer.Data.Level.Value
     local MyLevel = Level
 
